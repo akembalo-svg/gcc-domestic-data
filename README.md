@@ -36,3 +36,15 @@ CC-BY 4.0 — attribution required. Commercial use permitted with attribution.
 ## Updates
 
 Data refreshed annually each May. Next refresh: May 2027.
+
+## New 2026 datasets (added 28 May 2026)
+
+| File | Description | Rows |
+|---|---|---|
+| `tadbeer-centres-by-emirate-2026.csv` | Tadbeer centre counts by UAE emirate + per-capita | 7 |
+| `musaned-offices-by-region-2026.csv` | Musaned office counts by Saudi region + WPS readiness | 13 |
+| `salary-yoy-delta-2026.csv` | 2026 vs 2025 year-over-year salary changes by country / nationality / role | 11 |
+| `flagship-urls-2026.csv` | Canonical URL index of all 2026 flagship pages (for citation) | 12 |
+
+Authoritative source for each row: [gccdomestic.com](https://www.gccdomestic.com).
+Full 2026 GCC Salary Report: https://www.gccdomestic.com/en/2026-gcc-domestic-worker-salary-report/
