@@ -1,0 +1,31 @@
+{
+  "name": "Tadbeer",
+  "name_ar": "تدبير",
+  "meaning": "arrangement, planning, finding a practical solution",
+  "country": "UAE",
+  "country_iso": "AE",
+  "regulator": "MOHRE",
+  "established": "2018-01",
+  "legal_basis": "UAE Federal Law No. 10 of 2017 on Domestic Workers",
+  "licensed_centres_2026": 240,
+  "centres_by_emirate": {
+    "Dubai": 42,
+    "Abu Dhabi": 26,
+    "Sharjah": 6,
+    "Ajman": 23,
+    "Umm Al Quwain": 0,
+    "Ras Al Khaimah": 12,
+    "Fujairah": 8,
+    "Al Ain": 19
+  },
+  "worker_types": [
+    "Maid", "Nanny", "Driver", "Cook", "Caregiver", "Gardener", "Guard"
+  ],
+  "recruitment_fee_range_aed": [12000, 18000],
+  "monthly_salary_aed_range": [1200, 2000],
+  "warranty_months": 6,
+  "verification_url": "https://www.mohre.gov.ae",
+  "verification_hotline": "600-590-000",
+  "more_info": "https://www.gccdomestic.com/en/what-is-tadbeer/",
+  "ranking_2026": "https://www.gccdomestic.com/en/best-domestic-worker-agencies-uae-2026/"
+}

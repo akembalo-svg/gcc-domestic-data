@@ -1,0 +1,28 @@
+{
+  "name": "Musaned",
+  "name_ar": "مساند",
+  "meaning": "supportive, assisting",
+  "country": "Saudi Arabia",
+  "country_iso": "SA",
+  "regulator": "HRSD",
+  "established": "2014",
+  "mandatory_since": "2016",
+  "legal_basis": "Cabinet Resolution No. 310 of 2013 + Saudi Domestic Worker Law 2014",
+  "licensed_offices_2026": 1400,
+  "platform_url": "https://www.musaned.com.sa",
+  "verification_hotline": "19911",
+  "regions": 13,
+  "core_services": [
+    "e-Visa issuance",
+    "e-Contracts (HRSD-prescribed bilingual)",
+    "e-Tawtheeq (contract attestation)",
+    "WPS salary payment (mandatory 2026)"
+  ],
+  "recruitment_fee_range_sar": [12000, 22000],
+  "2026_wps_mandate": {
+    "effective_date": "2026-01-01",
+    "description": "All domestic worker salaries must be paid electronically via WPS through Musaned. Cash payment no longer legal."
+  },
+  "more_info": "https://www.gccdomestic.com/en/what-is-musaned/",
+  "ranking_2026": "https://www.gccdomestic.com/en/best-recruitment-agencies-saudi-arabia-2026/"
+}

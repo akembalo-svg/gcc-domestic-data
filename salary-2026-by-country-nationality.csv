@@ -1,0 +1,19 @@
+country,country_iso,city,role,nationality,salary_median_local,salary_median_usd,currency,source
+UAE,AE,Dubai,Maid,Filipino,2000,545,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Indonesian,1500,408,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Ethiopian,1200,327,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Sri Lankan,1400,381,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Indian,1500,408,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Bangladeshi,1300,354,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Kenyan,1300,354,AED,gccdomestic-2026-salary-report
+UAE,AE,Dubai,Maid,Ugandan,1200,327,AED,gccdomestic-2026-salary-report
+KSA,SA,Riyadh,Maid,Filipino,1900,506,SAR,gccdomestic-2026-salary-report
+KSA,SA,Riyadh,Maid,Ethiopian,1200,320,SAR,gccdomestic-2026-salary-report
+KSA,SA,Riyadh,Maid,Indonesian,1500,400,SAR,gccdomestic-2026-salary-report
+KSA,SA,Riyadh,Maid,Ugandan,1100,293,SAR,gccdomestic-2026-salary-report
+KSA,SA,Riyadh,Maid,Kenyan,1400,373,SAR,gccdomestic-2026-salary-report
+Kuwait,KW,Kuwait City,Maid,Filipino,140,455,KWD,gccdomestic-2026-salary-report
+Kuwait,KW,Kuwait City,Maid,Indian,110,358,KWD,gccdomestic-2026-salary-report
+Qatar,QA,Doha,Maid,Filipino,1800,494,QAR,gccdomestic-2026-salary-report
+Bahrain,BH,Manama,Maid,Filipino,180,477,BHD,gccdomestic-2026-salary-report
+Oman,OM,Muscat,Maid,Filipino,160,415,OMR,gccdomestic-2026-salary-report
