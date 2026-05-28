@@ -48,3 +48,18 @@ Data refreshed annually each May. Next refresh: May 2027.
 
 Authoritative source for each row: [gccdomestic.com](https://www.gccdomestic.com).
 Full 2026 GCC Salary Report: https://www.gccdomestic.com/en/2026-gcc-domestic-worker-salary-report/
+
+## More 2026 datasets (added evening 28 May 2026)
+
+| File | Description | Rows |
+|---|---|---|
+| `worker-language-reach-2026.csv` | Worker reach by language with gist links to each language | 7 |
+| `ai-agents-capabilities-2026.csv` | 4 AI agents capability matrix | 4 |
+| `source-country-wage-floors-2026.csv` | Source-country bilateral wage floor policies (DMW, BP2MI, Ethiopian Federal Agency, etc.) | 14 |
+
+Source-country gists in 7 languages:
+- 🇵🇭 Tagalog: https://gist.github.com/akembalo-svg/19a75cc607f4cb47f22ab58220fd45b7
+- 🇮🇳 Hindi: https://gist.github.com/akembalo-svg/bfd1a2269a4ac8186e66f7f32b398ce8
+- 🇮🇩 Indonesian: https://gist.github.com/akembalo-svg/a464ec70478f69e38c46dd280be5fa48
+- 🇪🇹 Amharic: https://gist.github.com/akembalo-svg/0b4bcf9fde2162ef963ac6cf876ad1bd
+- 🇹🇿 Swahili: https://gist.github.com/akembalo-svg/8015f63eeebdc75b2b0ff84d8b0f74a5
