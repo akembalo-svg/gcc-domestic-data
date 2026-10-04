@@ -4,6 +4,18 @@ Open datasets supporting the [GCC Domestic platform](https://www.gccdomestic.com
 
 All data is **free to cite** for journalists, researchers, NGOs, and academic work. We ask only for attribution and a link back to https://www.gccdomestic.com/
 
+## 🛠 Built with
+
+[![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?logo=claude&logoColor=white)](https://claude.ai)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com)
+[![GLM](https://img.shields.io/badge/GLM-Zhipu_AI-3B5BDB)](https://z.ai)
+[![Jev](https://img.shields.io/badge/Jev-AI_assistant-6C757D)](https://www.gccdomestic.com)
+[![Adobe](https://img.shields.io/badge/Adobe-design-FA0F00?logo=adobe&logoColor=white)](https://www.adobe.com)
+
+GCC Domestic is built and run by Ibrahim Kedir with **Claude** (code and operations),
+**Vercel** (deploys and front-end tooling), **GLM** and **Jev** (AI assistants),
+and **Adobe** (design work).
+
 ## Datasets included
 
 | File | Description | Source |
